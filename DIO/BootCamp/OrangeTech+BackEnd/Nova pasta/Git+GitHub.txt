@@ -1,0 +1,12 @@
+ Link de Downloads: 
+
+ Git: https://git-scm.com/downloads
+
+ Acesso:
+  GitHub: https://github.com
+
+  Git e um terminal para facilitar o trafego entre a plataforma GitHub de forma segura e eficiente.
+
+
+  Uma das evidentes tecnologias de segurança a SHA1 que gera um codigo criptografado do arquivo, que caso sofra alteração o codigo e claramente modificado, declarando que o arquivo não e mais o mesmo.
+  A outra seria chave SSH que permite atráves de uma chave você fazer up e download de arquivos ao GitHub e sua maquina pessoa ou trabalho.
